@@ -1,0 +1,6 @@
+*{margin: 0; padding: 0;}
+.box{height: 70px; width: 70px; background-color: seagreen; margin: 100px; border: 5px solid;}
+#box1{position: static;}
+#box2{position: relative; top: 20px; left: 90px;}
+#box3{position: absolute; top: 20px; left: 90px;}
+#box4{position: fixed; top: 200px; right: 200px;}

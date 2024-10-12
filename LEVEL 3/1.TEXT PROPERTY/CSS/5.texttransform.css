@@ -1,0 +1,4 @@
+#heading1{text-transform: capitalize;}
+#heading2{text-transform: uppercase;}
+#heading3{text-transform: lowercase;}
+#heading4{text-transform: none;}
