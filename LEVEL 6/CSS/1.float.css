@@ -1,0 +1,5 @@
+*{margin: 0; padding: 0;}
+#container{height: 200px; width: 500px; background-color: palevioletred; border: 5px solid;}
+.box{height: 100px; width: 100px; margin: 5px; border: 5px solid;}
+#box1{background-color: lightgreen; float: right;}
+#box2{background-color: red;}

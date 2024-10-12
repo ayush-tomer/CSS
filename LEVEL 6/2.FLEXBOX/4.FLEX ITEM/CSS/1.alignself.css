@@ -1,0 +1,8 @@
+*{margin: 0; padding: 0;}
+.box{height: 100px; width: 100px; border: 5px solid; margin: 5px;}
+#heading{text-align: center;}
+#container{height: 600px; width: 600px; padding: 10px; margin: 20px; border: 5px solid; background-color: lavender; display: flex; flex-wrap: wrap; justify-content: center; align-items: center;}
+#box1{background-color: aqua;}
+#box2{background-color: blueviolet; align-self: start;}
+#box3{background-color: yellow;}
+#box4{background-color: tomato;}

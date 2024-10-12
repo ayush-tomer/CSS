@@ -1,0 +1,6 @@
+#box{height: 75px; width: 75px; border: 5px solid; border-radius: 5px; background-color: plum; position: relative; top: 10px; left: 10px; animation-name: move; animation-duration: 2s; animation-timing-function: ease-in-out; animation-delay: 1s; animation-iteration-count: infinite; animation-direction: alternate;}
+@keyframes move
+{
+    from{left: 10px;}
+    to{left: 200px;}
+}

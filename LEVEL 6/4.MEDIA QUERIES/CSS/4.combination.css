@@ -1,0 +1,6 @@
+*{margin: 0; padding: 0;}
+#box{margin: 5px; padding: 5px; height: 100px; width: 100px; background-color: mediumspringgreen;}
+@media screen and (min-width: 200px) and (max-width: 300px)
+{
+    #box{background-color: brown; border: 5px solid red;}
+}

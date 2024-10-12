@@ -1,0 +1,9 @@
+.box{height: 50px; width: 50px; border: 5px solid; border-radius: 5px; position: relative; top: 50px; left: 50px; padding: 5px; margin: 20px; transition: all 1s ease-in;}
+#box1{background-color: plum;}
+#box1:hover{transform: skew(45deg);}
+#box2{background-color: lime;}
+#box2:hover{transform: skew(90deg);}
+#box3{background-color: blueviolet;}
+#box3:hover{transform: skewX(45deg);}
+#box4{background-color: indianred;}
+#box4:hover{transform: skewY(45deg);}
